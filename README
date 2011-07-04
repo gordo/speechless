@@ -1,0 +1,4 @@
+2011 June 18 and July 3. Speech bubbles triggered upon clicking (using only CSS) styled radio buttons via "checked" attribute.
+
+Tested as working in modern versions of: Chrome, Safari, Firefox, Camino, Opera; as well as IE9.
+Known limitations: Although general sibling selectors have been supported as far back as IE7, :checked only finally gained support in IE9. Therefore, this particular demo won't fully function in IE8 or earlier.
